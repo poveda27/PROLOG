@@ -1,2 +1,3 @@
-# Ejercicio de laberinto
-Acontinuacion se representara el laberinto principla, que se representaran las relaciones entre los puntos de cordenadad de cada sector, la intencion es probar si exite un recorido capaz de pasar el laberinto.
+# Ejercicio de familia
+la intencion del ejecicio es generar relaciones utiizando como esquema una relacion de familia normal, para realizalo utilizamos la siquiente imagen, la cual es una arbol genealogico simple.
+![MARCADO 1](Familia.drawio.png)
