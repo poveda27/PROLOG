@@ -5,6 +5,7 @@
 docente(juan_perez, auxiliar).
 docente(maria_rodriguez, asociado).
 docente(carlos_gomez, titular).
+docente(favian_rodigrez, asociado).
 % realcion_salario
 salarioIncial(auxiliar,SalarioBase):-
     SalarioBase is 3000000.
