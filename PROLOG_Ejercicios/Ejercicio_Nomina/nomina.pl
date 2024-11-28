@@ -7,11 +7,11 @@ docente(maria_rodriguez, asociado).
 docente(carlos_gomez, titular).
 % realcion_salario
 salarioIncial(auxiliar,SalarioBase):-
-    SalarioBase is 3000000
+    SalarioBase is 3000000.
 salarioIncial(asociado,SalarioBase):-
-    SalarioBase is 5000000
+    SalarioBase is 5000000.
 salarioIncial(titular,SalarioBase):-
-    SalarioBase is 7000000
+    SalarioBase is 7000000.
 
 % Deducciones
 deduccion_salud(SalarioBase, DeduccionSalud) :-
